@@ -115,3 +115,4 @@ Berikut adalah daftar library eksternal yang dipasang pada [pubspec.yaml](file:/
 | `fl_chart` | `^0.69.0` | Library grafik premium untuk merender diagram lingkaran (Pie Chart) di halaman Dashboard guna merepresentasikan persentase kondisi aset. |
 | `google_fonts` | `^6.2.1` | Mengintegrasikan font kustom dari Google Fonts (seperti Outfit) agar tipografi aplikasi terlihat modern dan profesional. |
 | `intl` | `^0.19.0` | Membantu formatting tanggal, jam, dan mata uang sesuai standar lokal bahasa Indonesia. |
+
